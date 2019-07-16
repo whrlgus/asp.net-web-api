@@ -1,0 +1,12 @@
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\Data.dll.config
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\Data.dll
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\Data.pdb
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\EntityFramework.dll
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\EntityFramework.xml
+C:\Users\GihyunCho\source\repos\User\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GihyunCho\source\repos\User\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\GihyunCho\source\repos\User\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\GihyunCho\source\repos\User\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\GihyunCho\source\repos\User\Data\obj\Debug\Data.dll
+C:\Users\GihyunCho\source\repos\User\Data\obj\Debug\Data.pdb

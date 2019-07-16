@@ -1,0 +1,17 @@
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\WebApiClient.exe.config
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\WebApiClient.exe
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\WebApiClient.pdb
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\GihyunCho\source\repos\User\WebApiClient\obj\Debug\WebApiClient.csprojAssemblyReference.cache
+C:\Users\GihyunCho\source\repos\User\WebApiClient\obj\Debug\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\GihyunCho\source\repos\User\WebApiClient\obj\Debug\WebApiClient.csproj.CopyComplete
+C:\Users\GihyunCho\source\repos\User\WebApiClient\obj\Debug\WebApiClient.exe
+C:\Users\GihyunCho\source\repos\User\WebApiClient\obj\Debug\WebApiClient.pdb
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\Data.dll
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\EntityFramework.dll
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\Data.pdb
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\Data.dll.config
+C:\Users\GihyunCho\source\repos\User\WebApiClient\bin\Debug\EntityFramework.xml
